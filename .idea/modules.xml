@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../Allspder/.idea/Allspder.iml" filepath="$PROJECT_DIR$/../Allspder/.idea/Allspder.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/FluentPython.iml" filepath="$PROJECT_DIR$/.idea/FluentPython.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../django_env/.idea/django_env.iml" filepath="$PROJECT_DIR$/../django_env/.idea/django_env.iml" />
     </modules>
   </component>
 </project>
